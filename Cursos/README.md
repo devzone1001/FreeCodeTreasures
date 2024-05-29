@@ -1,6 +1,6 @@
 **Bem-vindo ao DIO.me!**
 
-Obrigado pelo seu interesse no DIO.me! Aqui está um guia rápido para começar com na plataforma:
+Obrigado pelo seu interesse no DIO.me!
 
 ### Sobre o DIO.me
 
